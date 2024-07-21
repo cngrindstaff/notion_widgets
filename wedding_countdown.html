@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+
+
+    <title>Wedding Countdown</title>
+    <style>
+        
+        body{
+            text-align: center;
+            font-family: 'Fjalla One', sans-serif;
+            background-color: #fff;
+        }
+        .box{
+            display: inline-block;
+            display: inline-block;
+            padding: 10px;
+            border-radius: 5px;
+            min-width: 40px;
+        }
+
+        /* #months{
+            background-color:#76250b;
+        }
+        #weeks{
+            background-color:#76250b;
+        }
+        #days{
+            background-color:#0f4d4f;
+        }
+        #hours{
+            background-color:#4CAF50;
+        }
+        #minutes{
+            background-color:#76250b;
+        } */
+        
+        h2{
+            display: inline-block;
+            margin-right: 10px;
+            margin-block-start: 5px;
+        }
+        h3{
+            text-align: center;
+            
+        }
+        .small{
+            font-size: 15px;
+            font-weight: lighter;
+        }
+
+
+    </style>
+</head>
+<body>
+    
+    <div id="counter">
+    <h3 class="wedding-font-dark">
+        Wedding Countdown
+    </h3>
+        <h2 id="months" class="box wedding-color-1"></h2>
+        <h2 id="weeks" class="box wedding-color-2"></h2>
+        <h2 id="days" class="box wedding-color-3"></h2>
+        <h2 id="hours" class="box wedding-color-4"></h2>
+        <h2 id="minutes" class="box wedding-color-5"></h2>
+
+    </div>
+
+
+
+<script>
+    function CountDownTimer  () {
+    left_months = document.getElementById("months");
+    left_weeks = document.getElementById("weeks");
+    left_days = document.getElementById("days");
+    left_hours = document.getElementById("hours");
+    left_minutes = document.getElementById("minutes");
+
+    }
+    function showRemaining (){
+		let futureDate = new Date("May 24, 2025");
+		todayDate = new Date();
+		const timeLeft = futureDate-todayDate; //milliseconds
+
+        //total numbers left
+        var totalDaysLeft = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+        var totalWeeksLeft = Math.floor(timeLeft / (1000 * 60 * 60 * 24 * 7));
+        var totalMonthsLeft = Math.floor(timeLeft / (1000 * 60 * 60 * 24 * 30));
+
+        //relative numbers left
+        var daysLeft = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+        var monthsLeft = parseInt(daysLeft / 30);
+        var daysLeftInTheFinalMonth = daysLeft - (monthsLeft * 30);
+        var weeksLeft = parseInt(daysLeftInTheFinalMonth / 7);
+        var daysLeftInTheFinalWeek = daysLeft - (weeksLeft * 7);
+
+        var hours = Math.floor((timeLeft / (1000 * 60 * 60)) % 24);
+        var minutes = Math.floor((timeLeft / 1000 / 60) % 60);
+   
+
+
+		// // values in milliseconds
+        // const msPerMonth = 1000 * 60 * 60 * 24 * 30;
+        // const msPerWeek = 1000 * 60 * 60 * 24 * 7
+		// const msPerDay = 24 * 60 * 60 * 1000;
+        // const msPerHour = 60 * 60 * 1000;
+        // const msPerMinute = 60 * 1000;
+
+        // var e_weeksLeft = timeLeft / msPerWeek;
+        // var weeksLeft = Math.floor(e_weeksLeft);
+
+        // //subtract the weeks left from the total time left
+        // var e_daysLeft = (e_weeksLeft - weeksLeft) * 24 * 7;
+        // var daysLeft = Math.floor(e_daysLeft);
+
+        // var e_hrsLeft = (e_daysLeft - daysLeft) * 24;
+        // var hrsLeft = Math.floor(e_hrsLeft);
+
+        // var minsLeft = Math.floor((e_hrsLeft - hrsLeft) * 60);
+		
+
+        var showMonths = false;
+        //Show months, weeks, days, hours, minutes
+        if(showMonths){
+            left_months.innerHTML = monthsLeft + "<br> <span class=\"small\"> months </span>"
+		    left_weeks.innerHTML = weeksLeft + "<br> <span class=\"small\"> weeks </span>"
+		    left_days.innerHTML = daysLeft + "<br> <span class=\"small\"> days </span>"
+		    left_hours.innerHTML = hours + "<br> <span class=\"small\"> hours</span>";
+		    left_minutes.innerHTML = minutes + "<br> <span class=\"small\">mins</span>";
+        }
+        else
+        {
+            left_months.remove();
+		    left_weeks.innerHTML = totalWeeksLeft + "<br> <span class=\"small\"> weeks </span>"
+		    left_days.innerHTML = daysLeft + "<br> <span class=\"small\"> days </span>"
+		    left_hours.innerHTML = hours + "<br> <span class=\"small\"> hours</span>";
+		    left_minutes.innerHTML = minutes + "<br> <span class=\"small\">mins</span>";
+        }
+
+
+        //Show weeks, days, hours, minutes
+    }
+
+timer = setInterval (showRemaining, 1000) 
+CountDownTimer() ;
+</script>
+</body>
+</html>
