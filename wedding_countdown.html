@@ -21,23 +21,8 @@
             padding: 10px;
             border-radius: 5px;
             min-width: 40px;
+            height: 60px;
         }
-
-        /* #months{
-            background-color:#76250b;
-        }
-        #weeks{
-            background-color:#76250b;
-        }
-        #days{
-            background-color:#0f4d4f;
-        }
-        #hours{
-            background-color:#4CAF50;
-        }
-        #minutes{
-            background-color:#76250b;
-        } */
         
         h2{
             display: inline-block;
@@ -58,15 +43,15 @@
 </head>
 <body>
     
-    <div id="counter">
+    <div id="counter" class="wedding-border">
     <h3 class="wedding-font-dark">
         Wedding Countdown
     </h3>
-        <h2 id="months" class="box wedding-color-1"></h2>
-        <h2 id="weeks" class="box wedding-color-2"></h2>
-        <h2 id="days" class="box wedding-color-3"></h2>
-        <h2 id="hours" class="box wedding-color-4"></h2>
-        <h2 id="minutes" class="box wedding-color-5"></h2>
+        <!-- <h2 id="months" class="box wedding-font-dark wedding-bck-color-1"></h2> -->
+        <h2 id="weeks" class="box wedding-font-dark wedding-bck-color-2"></h2>
+        <h2 id="days" class="box wedding-font-dark wedding-bck-color-3"></h2>
+        <h2 id="hours" class="box wedding-font-dark wedding-bck-color-1"></h2>
+        <h2 id="minutes" class="box wedding-font-dark wedding-bck-color-5"></h2>
 
     </div>
 
@@ -134,7 +119,7 @@
         }
         else
         {
-            left_months.remove();
+            //left_months.remove();
 		    left_weeks.innerHTML = totalWeeksLeft + "<br> <span class=\"small\"> weeks </span>"
 		    left_days.innerHTML = daysLeft + "<br> <span class=\"small\"> days </span>"
 		    left_hours.innerHTML = hours + "<br> <span class=\"small\"> hours</span>";

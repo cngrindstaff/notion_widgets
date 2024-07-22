@@ -1,24 +1,92 @@
-/* https://www.color-hex.com/color-palette/105100 */
-.wedding-color-1 {
-	background-color: #bfadcc;
-	color: #5d0076;
+/* https://www.color-hex.com/color-palette/1007760 */
+/* Lilac color scheme, light to dark */
+.wedding-bck-color-1 {
+	background-color: #e5bcdd;
 }
-.wedding-color-2 {
-	background-color: #ffe1f5;
-	color: #5d0076;
+.wedding-bck-color-2 {
+	background-color: #d7abe6;
 }
-.wedding-color-3 {
-	background-color: #dfbbda;
-	color: #5d0076;
+.wedding-bck-color-3 {
+	background-color: #b69ccf;
 }
-.wedding-color-4 {
-	background-color: #896790;
-	color: #5d0076;
+.wedding-bck-color-4 {
+	background-color: #c38ed5;
 }
-.wedding-color-5 {
-	background-color: #f2bae4;
-	color: #5d0076;
+.wedding-bck-color-5 {
+	background-color: #9878b7;
 }
 .wedding-font-dark {
 	color: #5d0076;
 }
+.wedding-font-light {
+	color: #f9edfd;
+}
+.wedding-border{
+	border: 2px solid #5d0076;
+	border-radius: 5px;
+}
+
+/* https://www.color-hex.com/color-palette/104265 */
+/* https://www.color-hex.com/color/088da5 */
+/* Teal color scheme, light to dark */
+.teal-bck-color-1 {
+	background-color: #afdae2;
+}
+.teal-bck-color-2 {
+	background-color: #9cd1db;
+}
+.teal-bck-color-3 {
+	background-color: #6abac9;
+}
+.teal-bck-color-4 {
+	background-color: #39a3b7;
+}
+.teal-bck-color-5 {
+	background-color: #088da5;
+}
+.teal-font-light {
+	color: #cde8ed;
+}
+.teal-font-medium-dark{
+	color: #044652;
+}
+.teal-font-dark {
+	color: #033842;
+}
+
+
+.light-gray {
+	color: #97a1aa;
+}
+.dark-gray {
+	color: #5e6870;
+}
+
+/* https://colorkit.co/palette/660e60-893f71-ac6f82-cfa093-f3d0a4/ */
+/* https://colorkit.co/color/660e60/ */
+/* purple color scheme, light to dark */
+.purple-bck-color-1 {
+	background-color: #f3d0a4;
+}
+.purple-bck-color-2 {
+	background-color: #cfa093;
+}
+.purple-bck-color-3 {
+	background-color: #ac6f82;
+}
+.purple-bck-color-4 {
+	background-color: #893f71;
+}
+.purple-bck-color-5 {
+	background-color: #660e60;
+}
+.purple-font-light {
+	color: #e1cede;
+}
+.purple-font-medium-dark{
+	color: #3c0538;
+}
+.purple-font-dark {
+	color: #230220;
+}
+
