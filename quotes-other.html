@@ -6,13 +6,12 @@
     <title>Quote</title>
     <link rel="stylesheet" href="quotes-taylor.css">
     <script type="text/javascript" src="quotes-all.js"></script>
-
 </head>
 <body>
 
     <div class="widget" id="widget">
 		<div class="quote" id="quote"></div>
-		<div class="songAndAlbum" id="songAndAlbum"></div>
+		<div class="source" id="source"></div>
 	</div>
 
 <script>
@@ -25,7 +24,7 @@ function displayQuote(){
     quotes.forEach((quoteObj, i) => {
         setTimeout(() => {
             document.getElementById('quote').innerHTML =quoteObj.quote;
-            document.getElementById('songAndAlbum').innerHTML =" - " + quoteObj.song + ", " + quoteObj.album;
+            document.getElementById('source').innerHTML = " - " + quoteObj.source;
         }, i * INTERVAL);  
     });
     }
