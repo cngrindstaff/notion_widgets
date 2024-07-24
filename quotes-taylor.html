@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quote</title>
+    <link rel="stylesheet" href="quotes-taylor.css">
+
+</head>
+<body>
+
+    <div class="widget" id="widget">
+		<div class="quote" id="quote"></div>
+		<div class="songAndAlbum" id="songAndAlbum"></div>
+	</div>
+
+<script>
+
+quotes=[
+  {
+    "quote": "I can't stop you putting roots in my dreamland",
+    "song": "Ivy",
+    "album": "Evermore"
+  },
+  {
+    "quote": "I had the time of my life fighting dragons with you",
+    "song": "Long Live",
+    "album": "Speak Now"
+  },
+  {
+    "quote": "Everything you lose is a step you take",
+    "song": "You're On Your Own, Kid",
+    "album": "Midnights"
+  },
+  {
+    "quote": "I can still make the whole place shimmer",
+    "song": "Bejeweled",
+    "album": "Midnights"
+  }
+];
+
+//15 min in milliseconds
+const INTERVAL = 900000;
+
+function displayQuote(){
+    //document.getElementById('widget').innerHTML =quotes[0];
+    quotes.forEach((quoteObj, i) => {
+        setTimeout(() => {
+            document.getElementById('quote').innerHTML =quoteObj.quote;
+            document.getElementById('songAndAlbum').innerHTML =" - " + quoteObj.song + ", " + quoteObj.album;
+        }, i * INTERVAL);  
+    });
+    }
+
+    function displayWidget() {
+        displayQuote();
+        setTimeout(dispalyWidget, quotes.length*INTERVAL);
+    }
+    displayQuote()
+
+</script>
+
+</body>
+</html>

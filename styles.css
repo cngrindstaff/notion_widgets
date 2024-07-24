@@ -1,59 +1,99 @@
-/* https://www.color-hex.com/color-palette/1007760 */
+/* Inspired by: https://www.color-hex.com/color-palette/1007760 */
+/* https://coolors.co/ead0f1-e3b7f1-c88fda-a37ab8-825996 */
 /* Lilac color scheme, light to dark */
 .wedding-bck-color-1 {
-	background-color: #e5bcdd;
+	background-color: #ead0f1;
 }
 .wedding-bck-color-2 {
-	background-color: #d7abe6;
+	background-color: #e3b7f1;
 }
 .wedding-bck-color-3 {
-	background-color: #b69ccf;
+	background-color: #c88fda;
 }
 .wedding-bck-color-4 {
-	background-color: #c38ed5;
+	background-color: #a37ab8;
 }
 .wedding-bck-color-5 {
-	background-color: #9878b7;
+	background-color: #825996;
 }
+.wedding-bck-gradient-1 {
+	/* https://coolors.co/gradient-maker/ead0f1-6e78ff?position=40,100&opacity=100,100&type=linear&rotation=45 */
+	background: hsla(287, 54%, 88%, 1);
+	background: linear-gradient(45deg, hsla(287, 54%, 88%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	background: -moz-linear-gradient(45deg, hsla(287, 54%, 88%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	background: -webkit-linear-gradient(45deg, hsla(287, 54%, 88%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#EAD0F1", endColorstr="#6e78ff", GradientType=1 );
+}
+.wedding-bck-gradient-2 {
+	/* https://coolors.co/gradient-maker/e3b7f1-6e78ff?position=40,100&opacity=100,100&type=linear&rotation=45 */
+	background: hsla(286, 67%, 83%, 1);
+	background: linear-gradient(45deg, hsla(286, 67%, 83%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	background: -moz-linear-gradient(45deg, hsla(286, 67%, 83%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	background: -webkit-linear-gradient(45deg, hsla(286, 67%, 83%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#E3B7F1", endColorstr="#6e78ff", GradientType=1 );
+}
+.wedding-bck-gradient-3 {
+	/* https://coolors.co/gradient-maker/c88fda-6e78ff?position=40,100&opacity=100,100&type=linear&rotation=45 */
+	background: hsla(286, 50%, 71%, 1);
+	background: linear-gradient(45deg, hsla(286, 50%, 71%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	background: -moz-linear-gradient(45deg, hsla(286, 50%, 71%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	background: -webkit-linear-gradient(45deg, hsla(286, 50%, 71%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#C88FDA", endColorstr="#6E78FF", GradientType=1 );
+}
+.wedding-bck-gradient-4 {
+	/* https://coolors.co/gradient-maker/a37ab8-6e78ff?position=40,100&opacity=100,100&type=linear&rotation=45 */
+	background: hsla(280, 30%, 60%, 1);
+	background: linear-gradient(45deg, hsla(280, 30%, 60%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	background: -moz-linear-gradient(45deg, hsla(280, 30%, 60%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	background: -webkit-linear-gradient(45deg, hsla(280, 30%, 60%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#A37AB8", endColorstr="#6e78ff", GradientType=1 );
+}
+.wedding-bck-gradient-5 {
+	/* https://coolors.co/gradient-maker/825996-6e78ff?position=40,100&opacity=100,100&type=linear&rotation=45 */
+	background: hsla(280, 26%, 47%, 1);
+	background: linear-gradient(45deg, hsla(280, 26%, 47%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	background: -moz-linear-gradient(45deg, hsla(280, 26%, 47%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	background: -webkit-linear-gradient(45deg, hsla(280, 26%, 47%, 1) 40%, hsla(236, 100%, 72%, 1) 100%);
+	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#825996", endColorstr="#6e78ff", GradientType=1 );
+}
+
 .wedding-font-dark {
-	color: #5d0076;
+	color: #501B5F;
 }
 .wedding-font-light {
 	color: #f9edfd;
 }
 .wedding-border{
-	border: 2px solid #5d0076;
+	border: 2px solid #501B5F;
 	border-radius: 5px;
 }
 
-/* https://www.color-hex.com/color-palette/104265 */
-/* https://www.color-hex.com/color/088da5 */
+/* https://coolors.co/palette/9bebff-7ce5ff-42d9ff-00bbe9-008caf */
 /* Teal color scheme, light to dark */
 .teal-bck-color-1 {
-	background-color: #afdae2;
+	background-color: #9BEBFF;
 }
 .teal-bck-color-2 {
-	background-color: #9cd1db;
+	background-color: #7CE5FF;
 }
 .teal-bck-color-3 {
-	background-color: #6abac9;
+	background-color: #42D9FF;
 }
 .teal-bck-color-4 {
-	background-color: #39a3b7;
+	background-color: #00BBE9;
 }
 .teal-bck-color-5 {
-	background-color: #088da5;
+	background-color: #008CAF;
 }
 .teal-font-light {
-	color: #cde8ed;
+	color: #C5F3FF;
 }
 .teal-font-medium-dark{
-	color: #044652;
+	color: #005D75;
 }
 .teal-font-dark {
-	color: #033842;
+	color: #004657;
 }
-
 
 .light-gray {
 	color: #97a1aa;
