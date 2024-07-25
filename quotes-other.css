@@ -7,7 +7,7 @@
 	width: 95%;
 	min-height: 100px;
 	background: /* corners */
-		linear-gradient(to right, #005D75 4px, transparent 4px) 0 0, /* teal-font-medium-dark */
+		linear-gradient(to right, #005D75 4px, transparent 4px) 0 0, /* teal-font-medium */
 		linear-gradient(to right, #005D75 4px, transparent 4px) 0 100%,
 		linear-gradient(to left, #005D75 4px, transparent 4px) 100% 0,
 		linear-gradient(to left, #005D75 4px, transparent 4px) 100% 100%,
@@ -23,12 +23,12 @@
 }
 
 .quote {
-	color: #005D75; /* teal-font-medium-dark */
+	color: #005D75; /* teal-font-medium */
 	font-size: 2em;
 }
 
 .songAndAlbum {
-	color: #005D75; /* teal-font-medium-dark */
+	color: #005D75; /* teal-font-medium */
 	font-size: 1.2em;
 }
 

@@ -1,4 +1,4 @@
-.widget {
+.taylorQuoteWidget {
 	padding: 5px 5px ;
 	text-align: center;
 	max-width: 95%;
@@ -7,7 +7,7 @@
 	width: 95%;
 	min-height: 100px;
 	background: /* corners */
-		linear-gradient(to right, #005D75 4px, transparent 4px) 0 0, /* teal-font-medium-dark */
+		linear-gradient(to right, #005D75 4px, transparent 4px) 0 0, /* teal-font-medium */
 		linear-gradient(to right, #005D75 4px, transparent 4px) 0 100%,
 		linear-gradient(to left, #005D75 4px, transparent 4px) 100% 0,
 		linear-gradient(to left, #005D75 4px, transparent 4px) 100% 100%,
@@ -19,16 +19,17 @@
 	background-color: #9BEBFF;
 	background-repeat: no-repeat;
 	background-size: 20px 20px;
-
 }
+/*todo - remove the section above. it's been set up in styles.scss and mixins. Move the quote and stuff below to the same. Create styles_compiled.css, and all files should import it*/
+
 
 .quote {
-	color: #005D75; /* teal-font-medium-dark */
+	color: #005D75; /* teal-font-medium */
 	font-size: 2em;
 }
 
 .songAndAlbum {
-	color: #005D75; /* teal-font-medium-dark */
+	color: #005D75; /* teal-font-medium */
 	font-size: 1.2em;
 }
 
