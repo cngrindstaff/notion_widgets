@@ -17,24 +17,37 @@
 
 <script>
 
-//15 min in milliseconds
-const INTERVAL = 900000;
+    //set initial quote
+    displayQuote();
 
-function displayQuote(){
-    //document.getElementById('widget').innerHTML =quotes[0];
-    quotes.forEach((quoteObj, i) => {
-        setTimeout(() => {
-            document.getElementById('quote').innerHTML =quoteObj.quote;
-            document.getElementById('songAndAlbum').innerHTML =" - " + quoteObj.song + ", " + quoteObj.album;
-        }, i * INTERVAL);  
-    });
+    //15 min in milliseconds
+    const INTERVAL = 900000;
+
+    //after every INTERVAL, display a new quote
+    setInterval(displayQuote, INTERVAL);
+
+    function displayQuote(){
+        shuffleArray(quotes);
+
+        var quoteObj = quotes[0];
+        document.getElementById('quote').innerHTML =quoteObj.quote;
+        document.getElementById('songAndAlbum').innerHTML =" - \"" + quoteObj.song + "\", <i>" + quoteObj.album + "</i>";
     }
 
-    function displayWidget() {
-        displayQuote();
-        setTimeout(dispalyWidget, quotes.length*INTERVAL);
+
+    /* Randomize array in-place using Durstenfeld shuffle algorithm */
+    function shuffleArray(array) {
+        console.log("shuffle");
+        for (var i = array.length - 1; i > 0; i--) {
+            var j = Math.floor(Math.random() * (i + 1));
+            var temp = array[i];
+            array[i] = array[j];
+            array[j] = temp;
+        }
     }
-    displayQuote()
+
+
+
 
 </script>
 
