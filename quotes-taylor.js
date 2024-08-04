@@ -2,7 +2,7 @@ quotes=[
   {
     "quote": "I had the time of my life fighting dragons with you",
     "song": "Long Live",
-    "album": "Speak Now"
+    "album": "Speak Now (2010)"
   },
   {
     "quote": "Everything you lose is a step you take",
@@ -497,7 +497,7 @@ quotes=[
   {
     "quote": "And you understand now why they lost their minds and fought the wars / And why I've spent my whole life tryin' to put it into words",
     "song": "You Are In Love",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "Wasn't it beautiful running wild til you fell asleep, before the monsters caught up to you?",
@@ -567,7 +567,7 @@ quotes=[
   {
     "quote": "Hold on to the memories they will hold onto you",
     "song": "New Year's Day",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "Isn't it just so pretty to think all along there was some invisible string trying you to me?",
@@ -607,7 +607,7 @@ quotes=[
   {
     "quote": "When I was drowning, that's when I could finally breathe",
     "song": "Clean",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "I find myself running home to your sweet nothings",
@@ -617,52 +617,52 @@ quotes=[
   {
     "quote": "I wish we could go back and remember what we were fighting for. And I wish you knew that I miss you too much to be mad anymore",
     "song": "I Wish You Would",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "You'll see me in hindsight, tangled up with you all night / Burning it down",
     "song": "Wildest Dreams",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "Just grab my hand and don't ever drop it, my love",
     "song": "I Know Places",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "And every day is like a battle / But every night with us is like a dream",
     "song": "New Romantics",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "You two are dancing in a snowglobe round and round",
     "song": "You Are In Love",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "But the monsters turned out to be just trees / When the sun came up, you were looking at me",
     "song": "Out Of The Woods",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "The rest of the world was black and white but we were in screaming color",
     "song": "Out Of The Woods",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "Like any great love, it keeps you guessing. Like any real love, it's ever-changing. Like any true love, it drives you crazy but you know you wouldn't change anything",
     "song": "Welcome to New York",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "I'm dancing on my own, I make the moves up as I go and that's what they don't know",
     "song": "Shake it Off",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "I never miss a beat, I'm lightning on my feet, and that's what they don't see",
     "song": "Shake it Off",
-    "album": "1989"
+    "album": "1989 (2014)"
   },
   {
     "quote": "You kiss me and it stops time",
