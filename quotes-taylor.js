@@ -206,7 +206,7 @@ quotes=[
       "album": "TTPD (2024)"
     },
     {
-      "quote": "He said he'd love me all his life/ But that life was too short/ Breaking down I hit the floor/ All the pieces of me shattered as the crowd was chanting, ‘More!'",
+      "quote": "He said he'd love me all his life/ But that life was too short/ Breaking down I hit the floor/ All the pieces of me shattered as the crowd was chanting, 'More!'",
       "song": "I Can Do It With a Broken Heart",
       "album": "TTPD (2024)"
     },
@@ -241,7 +241,7 @@ quotes=[
       "album": "TTPD (2024)"
     },
     {
-      "quote": "‘Cause it wasn't sexy once it wasn't forbidden/ I would've died for your sins/ Instead I just died inside/ And you deserve prison, but you won't get time.",
+      "quote": "'Cause it wasn't sexy once it wasn't forbidden/ I would've died for your sins/ Instead I just died inside/ And you deserve prison, but you won't get time.",
       "song": "The Smallest Man Who Ever Lived",
       "album": "TTPD (2024)"
     },
