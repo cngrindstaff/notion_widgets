@@ -190,7 +190,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "When your impressionists paintings of heaven turned out to be fakes, well you took me to hell too. And all at once the ink bleeds, a conman sells a get love quick scheme.",
+    "quote": "When your impressionists paintings of heaven turned out to be fakes, well you took me to hell too. And all at once the ink bleeds, a conman sells a fool a get-love-quick scheme.",
     "song": "Loml",
     "album": "TTPD (2024)"
   },
