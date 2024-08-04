@@ -110,7 +110,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "Well, mе and my ghosts, we had a hell of a time / Yes, I'm hauntеd, but I'm feeling just fine",
+    "quote": "Well, me and my ghosts, we had a hell of a time / Yes, I'm haunted, but I'm feeling just fine",
     "song": "Florida!!! (featuring Florence and the Machine)",
     "album": "TTPD (2024)"
   },
@@ -185,7 +185,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "It was legendary/ It was momentary/ It was unnecessary",
+    "quote": "It was legendary / It was momentary / It was unnecessary",
     "song": "Loml",
     "album": "TTPD (2024)"
   },
@@ -205,7 +205,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "He said he'd love me all his life/ But that life was too short/ Breaking down I hit the floor/ All the pieces of me shattered as the crowd was chanting, 'More!'",
+    "quote": "He said he'd love me all his life / But that life was too short / Breaking down I hit the floor / All the pieces of me shattered as the crowd was chanting, 'More!'",
     "song": "I Can Do It With a Broken Heart",
     "album": "TTPD (2024)"
   },
@@ -240,12 +240,12 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "'Cause it wasn't sexy once it wasn't forbidden/ I would've died for your sins/ Instead I just died inside/ And you deserve prison, but you won't get time.",
+    "quote": "'Cause it wasn't sexy once it wasn't forbidden / I would've died for your sins / Instead I just died inside / And you deserve prison, but you won't get time.",
     "song": "The Smallest Man Who Ever Lived",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "And in plain sight you hid/ But you are what you did/ And I'll forget you, but I'll never forgive/ The smallest man who ever lived",
+    "quote": "And in plain sight you hid / But you are what you did / And I'll forget you, but I'll never forgive / The smallest man who ever lived",
     "song": "The Smallest Man Who Ever Lived",
     "album": "TTPD (2024)"
   },
@@ -310,7 +310,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "My beloved ghost and me/ Sitting in a tree/ D-Y-I-N-G",
+    "quote": "My beloved ghost and me / Sitting in a tree / D-Y-I-N-G",
     "song": "Chloe or Sam or Sophia or Marcus",
     "album": "TTPD (2024)"
   },
@@ -335,7 +335,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "I hate it here so I will go to secret gardens in my mind/ People need a key to get to, the only one is mine/ I read about it in a book when I was a precocious child",
+    "quote": "I hate it here so I will go to secret gardens in my mind / People need a key to get to, the only one is mine / I read about it in a book when I was a precocious child",
     "song": "I Hate It Here",
     "album": "TTPD (2024)"
   },
@@ -620,7 +620,7 @@ quotes=[
     "album": "1989"
   },
   {
-    "quote": "You'll see me in hindsight, tangled up with you all night/Burning it down",
+    "quote": "You'll see me in hindsight, tangled up with you all night / Burning it down",
     "song": "Wildest Dreams",
     "album": "1989"
   },
@@ -630,7 +630,7 @@ quotes=[
     "album": "1989"
   },
   {
-    "quote": "And every day is like a battle/But every night with us is like a dream",
+    "quote": "And every day is like a battle / But every night with us is like a dream",
     "song": "New Romantics",
     "album": "1989"
   },
@@ -640,7 +640,7 @@ quotes=[
     "album": "1989"
   },
   {
-    "quote": "But the monsters turned out to be just trees/When the sun came up, you were looking at me",
+    "quote": "But the monsters turned out to be just trees / When the sun came up, you were looking at me",
     "song": "Out Of The Woods",
     "album": "1989"
   },
