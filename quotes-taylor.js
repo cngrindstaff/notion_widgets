@@ -45,7 +45,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "I loved your hostile takeovers \\nEncounters closer and closer \\nAll your indecent exposures \\nHow dare you say that it's over",
+    "quote": "I loved your hostile takeovers  / Encounters closer and closer  / All your indecent exposures  / How dare you say that it's over",
     "song": "Down Bad",
     "album": "TTPD (2024)"
   },
@@ -60,42 +60,42 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "And you say I abandoned the ship, \\nbut I was going down with it\\nMy white knuckle dying grip \\nholding tight to your quiet resentment",
+    "quote": "And you say I abandoned the ship,  / but I was going down with it / My white knuckle dying grip  / holding tight to your quiet resentment",
     "song": "So Long, London",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "You swore that you loved me, but where were the clues?\\nI died on the altar waitin' for the proof",
+    "quote": "You swore that you loved me, but where were the clues? / I died on the altar waitin' for the proof",
     "song": "So Long, London",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "How much sad did you think I had\\nDid you think I had in me?",
+    "quote": "How much sad did you think I had / Did you think I had in me?",
     "song": "So Long, London",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "Every breath feels like rarest air\\nWhen you're not sure if he wants to be there",
+    "quote": "Every breath feels like rarest air / When you're not sure if he wants to be there",
     "song": "So Long, London",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "Stitches undone \\nTwo graves, one gun \\nYou'll find someone",
+    "quote": "Stitches undone  / Two graves, one gun  / You'll find someone",
     "song": "So Long, London",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "I'll tell you something right now\\nI'd rather burn my whole life down\\nThan listen to one more second of all this bitchin' and moanin'",
+    "quote": "I'll tell you something right now / I'd rather burn my whole life down / Than listen to one more second of all this bitchin' and moanin'",
     "song": "But Daddy I Love Him",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "I'll tell you something 'bout my good name\\nIt's mine along with all the disgrace\\nI don't cater to all these vipers dressed in empire's clothing",
+    "quote": "I'll tell you something 'bout my good name / It's mine along with all the disgrace / I don't cater to all these vipers dressed in empire's clothing",
     "song": "But Daddy I Love Him",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "God save the most judgmental creeps\\nWho say they want what's best for me\\nSanctimoniously performing soliloquies I'll never see",
+    "quote": "God save the most judgmental creeps / Who say they want what's best for me / Sanctimoniously performing soliloquies I'll never see",
     "song": "But Daddy I Love Him",
     "album": "TTPD (2024)"
   },
@@ -110,17 +110,17 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "Well, mе and my ghosts, we had a hell of a time\\nYes, I'm hauntеd, but I'm feeling just fine",
+    "quote": "Well, mе and my ghosts, we had a hell of a time / Yes, I'm hauntеd, but I'm feeling just fine",
     "song": "Florida!!! (featuring Florence and the Machine)",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "All my girls got their lace and their crimes\\nAnd your cheating husband disappeared\\nWell, no one asks any questions here",
+    "quote": "All my girls got their lace and their crimes / And your cheating husband disappeared / Well, no one asks any questions here",
     "song": "Florida!!! (featuring Florence and the Machine)",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "So I did my best to lay to rest\\nAll of the bodies that have ever been on my body\\nAnd in my mind, they sink into the swamp",
+    "quote": "So I did my best to lay to rest / All of the bodies that have ever been on my body / And in my mind, they sink into the swamp",
     "song": "Florida!!! (featuring Florence and the Machine)",
     "album": "TTPD (2024)"
   },
@@ -130,7 +130,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "If it's make believe\\nWhy does it feel like a vow?\\nWe'll both uphold somehow",
+    "quote": "If it's make believe / Why does it feel like a vow? / We'll both uphold somehow",
     "song": "Guilty as Sin?",
     "album": "TTPD (2024)"
   },
@@ -145,17 +145,17 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "If you wanted me dead you should've just said\\nNothing makes me feel more alive",
+    "quote": "If you wanted me dead you should've just said / Nothing makes me feel more alive",
     "song": "Who's Afraid of Little Old Me?",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "I want to snarl and show you just how disturbed this has made me.\\nYou wouldn't last an hour in the asylum where they raised me",
+    "quote": "I want to snarl and show you just how disturbed this has made me. / You wouldn't last an hour in the asylum where they raised me",
     "song": "Who's Afraid of Little Old Me?",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "Cause you lured me and you hurt me and you taught me\\nYou caged me and then you called me crazy\\nI am what I am 'cause you trained me",
+    "quote": "Cause you lured me and you hurt me and you taught me / You caged me and then you called me crazy / I am what I am 'cause you trained me",
     "song": "Who's Afraid of Little Old Me?",
     "album": "TTPD (2024)"
   },
@@ -210,7 +210,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "Lights, camera, bitch, smile\\nEven when you wanna die",
+    "quote": "Lights, camera, bitch, smile / Even when you wanna die",
     "song": "I Can Do It With a Broken Heart",
     "album": "TTPD (2024)"
   },
@@ -265,7 +265,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "'Cause the sign on your heart\\nSaid it's still reserved for me",
+    "quote": "'Cause the sign on your heart / Said it's still reserved for me",
     "song": "The Alchemy",
     "album": "TTPD (2024)"
   },
@@ -340,7 +340,7 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "I wrote a thousand songs that you find uncool\\nI built a legacy that you can't undo\\nBut when I count the scars, there's a moment of truth\\nThat there wouldn't be this if there hadn't been you",
+    "quote": "I wrote a thousand songs that you find uncool / I built a legacy that you can't undo / But when I count the scars, there's a moment of truth / That there wouldn't be this if there hadn't been you",
     "song": "thanK you aIMee",
     "album": "TTPD (2024)"
   },
