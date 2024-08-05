@@ -12,3 +12,7 @@
 #date{
     font-size:large;
 }
+
+.greetings_lbl{
+	@extend .teal-background-gradient;
+}

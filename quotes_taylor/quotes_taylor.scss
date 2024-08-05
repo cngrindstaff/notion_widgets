@@ -8,6 +8,8 @@
 	font-variant-caps: petite-caps;
 	//width: 95%;
 	min-height: 100px;
+	@extend .teal-background-gradient;
+	//@extend .wedding-bck-gradient-main;
 }
 
 .taylor_quote {
