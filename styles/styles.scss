@@ -20,6 +20,10 @@ $wedding_bck_color_5: #825996;
 $wedding_font_dark: #501B5F;
 $wedding_font_light: #f9edfd;
 
+.wedding-bck-gradient-main {
+	@include createCorners($wedding_bck_color_5);
+	@include createLinearGradient(45deg, $wedding_bck_color_1, $wedding_bck_color_3);
+}
 .wedding-bck-gradient-1 {
 	@include createLinearGradient(45deg, $wedding_bck_color_1, #6e78ff);
 }
@@ -35,12 +39,12 @@ $wedding_font_light: #f9edfd;
 .wedding-bck-gradient-5 {
 	@include createLinearGradient(45deg, $wedding_bck_color_5, #6e78ff);
 }
-.wedding-font-dark {
-	color: $wedding_font_dark; 
-}
-.wedding-font-light {
-	color: $wedding_font_light;
-}
+// .wedding-font-dark {
+// 	color: $wedding_font_dark; 
+// }
+// .wedding-font-light {
+// 	color: $wedding_font_light;
+// }
 .wedding-border{
 	border: 2px solid $wedding_font_dark;
 	border-radius: 5px;
@@ -48,21 +52,23 @@ $wedding_font_light: #f9edfd;
 
 
 
-/* https://coolors.co/palette/9bebff-7ce5ff-42d9ff-00bbe9-008caf */
+/* https://coolors.co/9ce4e8-6ad6dc-2fbfc6-28a2a8-1f7f84 */
 /* Teal color scheme, light to dark */
 
-$teal_bck_color_1: #9BEBFF;
-$teal_bck_color_2: #7CE5FF;
-$teal_bck_color_3: #42D9FF;
-$teal_bck_color_4: #00BBE9;
-$teal_bck_color_5: #008CAF;
-$teal_bck_color_6: #005D75;
-$teal_font_light: #C5F3FF;
-$teal_font_medium: #005D75;
-$teal_font_dark: #004657;
+$teal_bck_color_1: #9CE4E8;
+$teal_bck_color_2: #6AD6DC;
+$teal_bck_color_3: #2FBFC6;
+$teal_bck_color_4: #28A2A8;
+$teal_bck_color_5: #1F7F84;
+$teal_bck_color_6: #175F63;
+$teal_font_light: #CEF2F3;
+$teal_font_medium: #238F95;
+$teal_font_dark: #104042;
 
 .teal-background-gradient{
-	@include createCornerGradient($teal_bck_color_6, $teal_bck_color_1);
+	@include createCorners($teal_bck_color_6);
+	@include createLinearGradient(45deg, $teal_bck_color_1, $teal_bck_color_3);
+
 }
 
 .teal-font-light {
@@ -115,7 +121,9 @@ $purple_font_dark: #381A2E;
 	color: $purple_font_dark;
 }
 .purple-background-gradient{
-	@include createCornerGradient($purple_bck_color_5, $purple_bck_color_1);
+	@include createCorners($purple_bck_color_5);
+	//@include createLinearGradient(to top right, $purple_bck_color_1, $purple_bck_color_3);
+	@include createLinearGradient(45deg, $purple_bck_color_1, $purple_bck_color_3);
 }
 
 

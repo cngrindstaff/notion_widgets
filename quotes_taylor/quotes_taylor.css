@@ -9,37 +9,31 @@
 /* Inspired by: https://www.color-hex.com/color-palette/1007760 */
 /* https://coolors.co/ead0f1-e3b7f1-c88fda-a37ab8-825996 */
 /* Lilac color scheme, light to dark */
+.wedding-bck-gradient-main {
+  background: linear-gradient(to right, #825996 4px, transparent 4px) 0 0, linear-gradient(to right, #825996 4px, transparent 4px) 0 100%, linear-gradient(to left, #825996 4px, transparent 4px) 100% 0, linear-gradient(to left, #825996 4px, transparent 4px) 100% 100%, linear-gradient(to bottom, #825996 4px, transparent 4px) 0 0, linear-gradient(to bottom, #825996 4px, transparent 4px) 100% 0, linear-gradient(to top, #825996 4px, transparent 4px) 0 100%, linear-gradient(to top, #825996 4px, transparent 4px) 100% 100%;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  background: linear-gradient(45deg, #ead0f1 40%, #c88fda 100%);
+}
+
 .wedding-bck-gradient-1 {
-  background: #ead0f1;
   background: linear-gradient(45deg, #ead0f1 40%, #6e78ff 100%);
 }
 
 .wedding-bck-gradient-2 {
-  background: #e3b7f1;
   background: linear-gradient(45deg, #e3b7f1 40%, #6e78ff 100%);
 }
 
 .wedding-bck-gradient-3 {
-  background: #c88fda;
   background: linear-gradient(45deg, #c88fda 40%, #6e78ff 100%);
 }
 
 .wedding-bck-gradient-4 {
-  background: #a37ab8;
   background: linear-gradient(45deg, #a37ab8 40%, #6e78ff 100%);
 }
 
 .wedding-bck-gradient-5 {
-  background: #825996;
   background: linear-gradient(45deg, #825996 40%, #6e78ff 100%);
-}
-
-.wedding-font-dark {
-  color: #501B5F;
-}
-
-.wedding-font-light {
-  color: #f9edfd;
 }
 
 .wedding-border {
@@ -47,25 +41,25 @@
   border-radius: 5px;
 }
 
-/* https://coolors.co/palette/9bebff-7ce5ff-42d9ff-00bbe9-008caf */
+/* https://coolors.co/9ce4e8-6ad6dc-2fbfc6-28a2a8-1f7f84 */
 /* Teal color scheme, light to dark */
-.teal-background-gradient {
-  background: linear-gradient(to right, #005D75 4px, transparent 4px) 0 0, linear-gradient(to right, #005D75 4px, transparent 4px) 0 100%, linear-gradient(to left, #005D75 4px, transparent 4px) 100% 0, linear-gradient(to left, #005D75 4px, transparent 4px) 100% 100%, linear-gradient(to bottom, #005D75 4px, transparent 4px) 0 0, linear-gradient(to bottom, #005D75 4px, transparent 4px) 100% 0, linear-gradient(to top, #005D75 4px, transparent 4px) 0 100%, linear-gradient(to top, #005D75 4px, transparent 4px) 100% 100%;
+.teal-background-gradient, .taylorQuoteWidget {
+  background: linear-gradient(to right, #175F63 4px, transparent 4px) 0 0, linear-gradient(to right, #175F63 4px, transparent 4px) 0 100%, linear-gradient(to left, #175F63 4px, transparent 4px) 100% 0, linear-gradient(to left, #175F63 4px, transparent 4px) 100% 100%, linear-gradient(to bottom, #175F63 4px, transparent 4px) 0 0, linear-gradient(to bottom, #175F63 4px, transparent 4px) 100% 0, linear-gradient(to top, #175F63 4px, transparent 4px) 0 100%, linear-gradient(to top, #175F63 4px, transparent 4px) 100% 100%;
   background-repeat: no-repeat;
-  background-color: #9BEBFF;
   background-size: 20px 20px;
+  background: linear-gradient(45deg, #9CE4E8 40%, #2FBFC6 100%);
 }
 
 .teal-font-light {
-  color: #C5F3FF;
+  color: #CEF2F3;
 }
 
 .teal-font-medium {
-  color: #005D75;
+  color: #238F95;
 }
 
 .teal-font-dark {
-  color: #004657;
+  color: #104042;
 }
 
 /* https://coolors.co/dfb9d3-d29dc1-b8659e-893f71-622d51 */
@@ -105,8 +99,8 @@
 .purple-background-gradient {
   background: linear-gradient(to right, #622D51 4px, transparent 4px) 0 0, linear-gradient(to right, #622D51 4px, transparent 4px) 0 100%, linear-gradient(to left, #622D51 4px, transparent 4px) 100% 0, linear-gradient(to left, #622D51 4px, transparent 4px) 100% 100%, linear-gradient(to bottom, #622D51 4px, transparent 4px) 0 0, linear-gradient(to bottom, #622D51 4px, transparent 4px) 100% 0, linear-gradient(to top, #622D51 4px, transparent 4px) 0 100%, linear-gradient(to top, #622D51 4px, transparent 4px) 100% 100%;
   background-repeat: no-repeat;
-  background-color: #DFB9D3;
   background-size: 20px 20px;
+  background: linear-gradient(45deg, #DFB9D3 40%, #B8659E 100%);
 }
 
 .taylorQuoteWidget {
@@ -119,10 +113,10 @@
 
 .taylor_quote {
   font-size: 2em;
-  color: #005D75;
+  color: #238F95;
 }
 
 .taylor_songAndAlbum {
   font-size: 1.2em;
-  color: #005D75;
+  color: #238F95;
 }/*# sourceMappingURL=quotes_taylor.css.map */
