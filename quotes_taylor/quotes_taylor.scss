@@ -1,0 +1,20 @@
+@use '../styles/styles.scss' as *;
+
+.taylorQuoteWidget {
+	padding: 5px 5px ;
+	text-align: center;
+	//max-width: 95%;
+	margin: auto;
+	font-variant-caps: petite-caps;
+	//width: 95%;
+	min-height: 100px;
+}
+
+.taylor_quote {
+	font-size: 2em;
+	color: $teal_font_medium;
+}
+.taylor_songAndAlbum {
+	font-size: 1.2em;
+	color: $teal_font_medium;
+}

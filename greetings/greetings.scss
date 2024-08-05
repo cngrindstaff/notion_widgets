@@ -1,0 +1,14 @@
+@use '../styles/styles.scss' as *;
+
+#lbl {
+    font-family: Lyon-Text, Georgia, ui-serif, serif;
+    font-size: xx-large;
+	color: #005D75; 
+    padding: 5px;
+    text-align: center;
+    line-height: 1.5;
+    //height:85%
+}
+#date{
+    font-size:large;
+}

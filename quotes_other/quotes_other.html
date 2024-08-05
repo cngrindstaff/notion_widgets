@@ -4,19 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quote</title>
-    <link rel="stylesheet" href="quotes-taylor.css">
-    <script type="text/javascript" src="quotes-taylor.js"></script>
-
+    <link rel="stylesheet" href="quotes_other.css">
+    <script type="text/javascript" src="quotes_other.js"></script>
 </head>
 <body>
 
-    <div class="widget" id="widget">
+    <div class="quoteWidget purple-background-gradient" id="widget">
 		<div class="quote" id="quote"></div>
-		<div class="songAndAlbum" id="songAndAlbum"></div>
+		<div class="quote_source" id="quote_source"></div>
 	</div>
 
 <script>
-
     //set initial quote
     displayQuote();
 
@@ -31,7 +29,7 @@
 
         var quoteObj = quotes[0];
         document.getElementById('quote').innerHTML =quoteObj.quote;
-        document.getElementById('songAndAlbum').innerHTML =" - \"" + quoteObj.song + "\", <i>" + quoteObj.album + "</i>";
+        document.getElementById('quote_source').innerHTML = " - " + quoteObj.source;
     }
 
 
@@ -45,9 +43,6 @@
             array[j] = temp;
         }
     }
-
-
-
 
 </script>
 

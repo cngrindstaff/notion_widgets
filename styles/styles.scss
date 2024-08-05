@@ -1,0 +1,126 @@
+@use 'mixins.scss' as *;
+ 
+    
+.light-gray {
+	color: #97a1aa;
+}
+.dark-gray {
+	color: #5e6870;
+}
+
+
+/* Inspired by: https://www.color-hex.com/color-palette/1007760 */
+/* https://coolors.co/ead0f1-e3b7f1-c88fda-a37ab8-825996 */
+/* Lilac color scheme, light to dark */
+$wedding_bck_color_1: #ead0f1;
+$wedding_bck_color_2: #e3b7f1;
+$wedding_bck_color_3: #c88fda;
+$wedding_bck_color_4: #a37ab8;
+$wedding_bck_color_5: #825996;
+$wedding_font_dark: #501B5F;
+$wedding_font_light: #f9edfd;
+
+.wedding-bck-gradient-1 {
+	@include createLinearGradient(45deg, $wedding_bck_color_1, #6e78ff);
+}
+.wedding-bck-gradient-2 {
+	@include createLinearGradient(45deg, $wedding_bck_color_2, #6e78ff);
+}
+.wedding-bck-gradient-3 {
+	@include createLinearGradient(45deg, $wedding_bck_color_3, #6e78ff);
+}
+.wedding-bck-gradient-4 {
+	@include createLinearGradient(45deg, $wedding_bck_color_4, #6e78ff);
+}
+.wedding-bck-gradient-5 {
+	@include createLinearGradient(45deg, $wedding_bck_color_5, #6e78ff);
+}
+.wedding-font-dark {
+	color: $wedding_font_dark; 
+}
+.wedding-font-light {
+	color: $wedding_font_light;
+}
+.wedding-border{
+	border: 2px solid $wedding_font_dark;
+	border-radius: 5px;
+}
+
+
+
+/* https://coolors.co/palette/9bebff-7ce5ff-42d9ff-00bbe9-008caf */
+/* Teal color scheme, light to dark */
+
+$teal_bck_color_1: #9BEBFF;
+$teal_bck_color_2: #7CE5FF;
+$teal_bck_color_3: #42D9FF;
+$teal_bck_color_4: #00BBE9;
+$teal_bck_color_5: #008CAF;
+$teal_bck_color_6: #005D75;
+$teal_font_light: #C5F3FF;
+$teal_font_medium: #005D75;
+$teal_font_dark: #004657;
+
+.teal-background-gradient{
+	@include createCornerGradient($teal_bck_color_6, $teal_bck_color_1);
+}
+
+.teal-font-light {
+	color: $teal_font_light;
+}
+.teal-font-medium{
+	color: $teal_font_medium;
+}
+.teal-font-dark {
+	color: $teal_font_dark;
+}
+
+
+
+/* https://coolors.co/dfb9d3-d29dc1-b8659e-893f71-622d51 */
+/* purple color scheme, light to dark */
+
+$purple_bck_color_1: #DFB9D3;
+$purple_bck_color_2: #DFB9D3;
+$purple_bck_color_3: #B8659E;
+$purple_bck_color_4: #893F71;
+$purple_bck_color_5: #622D51;
+
+$purple_font_light: #381A2E;
+$purple_font_medium: #70335D;
+$purple_font_dark: #381A2E;
+
+.purple-bck-color-1 {
+	background-color: $purple_bck_color_1;
+}
+.purple-bck-color-2 {
+	background-color: $purple_bck_color_2;
+}
+.purple-bck-color-3 {
+	background-color: $purple_bck_color_3;
+}
+.purple-bck-color-4 {
+	background-color: $purple_bck_color_4;
+}
+.purple-bck-color-5 {
+	background-color: $purple_bck_color_5;
+}
+.purple-font-light {
+	color: $purple_font_light;
+}
+.purple-font-medium{
+	color: $purple_font_medium;
+}
+.purple-font-dark {
+	color: $purple_font_dark;
+}
+.purple-background-gradient{
+	@include createCornerGradient($purple_bck_color_5, $purple_bck_color_1);
+}
+
+
+
+
+
+
+
