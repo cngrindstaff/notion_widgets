@@ -34,56 +34,56 @@ quotes=[
     "song": "My Boy Only Breaks His Favorite Toys",
     "album": "TTPD (2024)"
   },
-  {
-    "quote": "I felt more when he played pretend than with all the Kens 'cause he took me out of box, stole my tortured heart, left all these broken parts.",
-    "song": "My Boy Only Breaks His Favorite Toys",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "There was a litany of reasons why we could've played for keeps this time. I know I'm just repeating myself. Put me back on my shelf. But first, pull the string.",
-    "song": "My Boy Only Breaks His Favorite Toys",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "I loved your hostile takeovers  / Encounters closer and closer  / All your indecent exposures  / How dare you say that it's over",
-    "song": "Down Bad",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "I founded the club she's heard great things about",
-    "song": "So Long, London",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "And I'm pissed off you let me give you all that youth for free",
-    "song": "So Long, London",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "And you say I abandoned the ship,  / but I was going down with it / My white knuckle dying grip  / holding tight to your quiet resentment",
-    "song": "So Long, London",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "You swore that you loved me, but where were the clues? / I died on the altar waitin' for the proof",
-    "song": "So Long, London",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "How much sad did you think I had / Did you think I had in me?",
-    "song": "So Long, London",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "Every breath feels like rarest air / When you're not sure if he wants to be there",
-    "song": "So Long, London",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "Stitches undone  / Two graves, one gun  / You'll find someone",
-    "song": "So Long, London",
-    "album": "TTPD (2024)"
-  },
+  // {
+  //   "quote": "I felt more when he played pretend than with all the Kens 'cause he took me out of box, stole my tortured heart, left all these broken parts.",
+  //   "song": "My Boy Only Breaks His Favorite Toys",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "There was a litany of reasons why we could've played for keeps this time. I know I'm just repeating myself. Put me back on my shelf. But first, pull the string.",
+  //   "song": "My Boy Only Breaks His Favorite Toys",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "I loved your hostile takeovers  / Encounters closer and closer  / All your indecent exposures  / How dare you say that it's over",
+  //   "song": "Down Bad",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "I founded the club she's heard great things about",
+  //   "song": "So Long, London",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "And I'm pissed off you let me give you all that youth for free",
+  //   "song": "So Long, London",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "And you say I abandoned the ship,  / but I was going down with it / My white knuckle dying grip  / holding tight to your quiet resentment",
+  //   "song": "So Long, London",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "You swore that you loved me, but where were the clues? / I died on the altar waitin' for the proof",
+  //   "song": "So Long, London",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "How much sad did you think I had / Did you think I had in me?",
+  //   "song": "So Long, London",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "Every breath feels like rarest air / When you're not sure if he wants to be there",
+  //   "song": "So Long, London",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "Stitches undone  / Two graves, one gun  / You'll find someone",
+  //   "song": "So Long, London",
+  //   "album": "TTPD (2024)"
+  // },
   {
     "quote": "I'll tell you something right now / I'd rather burn my whole life down / Than listen to one more second of all this bitchin' and moanin'",
     "song": "But Daddy I Love Him",
@@ -119,11 +119,11 @@ quotes=[
     "song": "Florida!!! (featuring Florence and the Machine)",
     "album": "TTPD (2024)"
   },
-  {
-    "quote": "So I did my best to lay to rest / All of the bodies that have ever been on my body / And in my mind, they sink into the swamp",
-    "song": "Florida!!! (featuring Florence and the Machine)",
-    "album": "TTPD (2024)"
-  },
+  // {
+  //   "quote": "So I did my best to lay to rest / All of the bodies that have ever been on my body / And in my mind, they sink into the swamp",
+  //   "song": "Florida!!! (featuring Florence and the Machine)",
+  //   "album": "TTPD (2024)"
+  // },
   {
     "quote": "Little did you know, your home's really only a town you're just a guest in.",
     "song": "Florida!!! (featuring Florence and the Machine)",
@@ -135,12 +135,12 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "I dream of cracking locks, / throwing my life to the wolves / or the ocean rocks. / Crashing into him tonight, / he's a paradox. / I'm seeing visions, am I bad? / Or mad? Or wise?",
+    "quote": "I dream of cracking locks, throwing my life to the wolves or the ocean rocks. / Crashing into him tonight, he's a paradox. / I'm seeing visions, am I bad? / Or mad? Or wise?",
     "song": "Guilty as Sin?",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "I keep these longings locked in lowercase, inside a vault. / Someone told me there's no such thing as bad thoughts. / Only your actions talk.",
+    "quote": "I keep these longings locked in lowercase, inside a vault. Someone told me there's no such thing as bad thoughts. Only your actions talk.",
     "song": "Guilty as Sin?",
     "album": "TTPD (2024)"
   },
@@ -150,12 +150,12 @@ quotes=[
     "album": "TTPD (2024)"
   },
   {
-    "quote": "I want to snarl and show you just how disturbed this has made me. / You wouldn't last an hour in the asylum where they raised me",
+    "quote": "I want to snarl and show you just how disturbed this has made me. You wouldn't last an hour in the asylum where they raised me",
     "song": "Who's Afraid of Little Old Me?",
     "album": "TTPD (2024)"
   },
   {
-    "quote": "Cause you lured me and you hurt me and you taught me / You caged me and then you called me crazy / I am what I am 'cause you trained me",
+    "quote": "Cause you lured me and you hurt me and you taught me. You caged me and then you called me crazy. I am what I am 'cause you trained me",
     "song": "Who's Afraid of Little Old Me?",
     "album": "TTPD (2024)"
   },
@@ -169,36 +169,36 @@ quotes=[
     "song": "Who's Afraid of Little Old Me?",
     "album": "TTPD (2024)"
   },
-  {
-    "quote": "I'm always drunk on my own tears, isn't that what they all said? That I'll sue you if you step on my lawn. That I'm fearsome, and I'm wretched, and I'm wrong. Put narcotics into all of my songs. And that's why you still singing along.",
-    "song": "Who's Afraid of Little Old Me?",
-    "album": "TTPD (2024)"
-  },
+  // {
+  //   "quote": "I'm always drunk on my own tears, isn't that what they all said? That I'll sue you if you step on my lawn. That I'm fearsome, and I'm wretched, and I'm wrong. Put narcotics into all of my songs. And that's why you still singing along.",
+  //   "song": "Who's Afraid of Little Old Me?",
+  //   "album": "TTPD (2024)"
+  // },
   {
     "quote": "Good boy, that's right. Come close, I'll show you heaven. If you'll be an angel all night. Trust me, I can handle me a dangerous man. No really I can.",
     "song": "I Can Fix Him (No Really I Can)",
     "album": "TTPD (2024)"
   },
-  {
-    "quote": "We embroidered the memories of the time I was away, stitching, \"We were just kids, babe.",
-    "song": "Loml",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "It was legendary / It was momentary / It was unnecessary",
-    "song": "Loml",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "When your impressionists paintings of heaven turned out to be fakes, well you took me to hell too. And all at once the ink bleeds, a conman sells a fool a get-love-quick scheme.",
-    "song": "Loml",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "Our field of dreams, engulfed in fire. / Your arson's match, your somber eyes. / And I'll still see it until I die, you're the loss of my life.",
-    "song": "Loml",
-    "album": "TTPD (2024)"
-  },
+  // {
+  //   "quote": "We embroidered the memories of the time I was away, stitching, \"We were just kids, babe.\"",
+  //   "song": "Loml",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "It was legendary / It was momentary / It was unnecessary",
+  //   "song": "Loml",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "When your impressionists paintings of heaven turned out to be fakes, well you took me to hell too. And all at once the ink bleeds, a conman sells a fool a get-love-quick scheme.",
+  //   "song": "Loml",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "Our field of dreams, engulfed in fire. / Your arson's match, your somber eyes. / And I'll still see it until I die, you're the loss of my life.",
+  //   "song": "Loml",
+  //   "album": "TTPD (2024)"
+  // },
   {
     "quote": "I thought I was better safe than starry-eyed. I felt aglow like this, never before and never since.",
     "song": "Loml",
@@ -279,21 +279,21 @@ quotes=[
     "song": "The Black Dog",
     "album": "TTPD (2024)"
   },
-  {
-    "quote": "I'm an Aston Martin that you steered straight into the ditch. Then ran and hid.",
-    "song": "imgonnagetyouback",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "Pick your poison, babe. I'm poison either way.",
-    "song": "imgonnagetyouback",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "Wise men once read fake news and they believed it. Jackals raised their hackles you couldn't conceive it.",
-    "song": "The Albatross",
-    "album": "TTPD (2024)"
-  },
+  // {
+  //   "quote": "I'm an Aston Martin that you steered straight into the ditch. Then ran and hid.",
+  //   "song": "imgonnagetyouback",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "Pick your poison, babe. I'm poison either way.",
+  //   "song": "imgonnagetyouback",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "Wise men once read fake news and they believed it. Jackals raised their hackles you couldn't conceive it.",
+  //   "song": "The Albatross",
+  //   "album": "TTPD (2024)"
+  // },
   {
     "quote": "A rose by any other name is a scandal.",
     "song": "The Albatross",
@@ -314,16 +314,16 @@ quotes=[
     "song": "Chloe or Sam or Sophia or Marcus",
     "album": "TTPD (2024)"
   },
-  {
-    "quote": "We learned the right steps to different dances.",
-    "song": "Chloe or Sam or Sophia or Marcus",
-    "album": "TTPD (2024)"
-  },
-  {
-    "quote": "Say it once again with feeling how the death rattle breathing silenced as the soul was leaving the deflation of our dreaming.",
-    "song": "Chloe or Sam or Sophia or Marcus",
-    "album": "TTPD (2024)"
-  },
+  // {
+  //   "quote": "We learned the right steps to different dances.",
+  //   "song": "Chloe or Sam or Sophia or Marcus",
+  //   "album": "TTPD (2024)"
+  // },
+  // {
+  //   "quote": "Say it once again with feeling how the death rattle breathing silenced as the soul was leaving the deflation of our dreaming.",
+  //   "song": "Chloe or Sam or Sophia or Marcus",
+  //   "album": "TTPD (2024)"
+  // },
   {
     "quote": "I'm lonely, but I'm good. I'm bitter, but I swear I'm fine. I'll save all my romanticism for my inner life and I'll get lost on purpose.",
     "song": "I Hate It Here",
@@ -369,11 +369,11 @@ quotes=[
     "song": "The Prophecy",
     "album": "TTPD (2024)"
   },
-  {
-    "quote": "Slow is the quicksand. Poison blood from the wound of the pricked hand. Oh, still I dream of him.",
-    "song": "The Prophecy",
-    "album": "TTPD (2024)"
-  },
+  // {
+  //   "quote": "Slow is the quicksand. Poison blood from the wound of the pricked hand. Oh, still I dream of him.",
+  //   "song": "The Prophecy",
+  //   "album": "TTPD (2024)"
+  // },
   {
     "quote": "When the first stone's thrown there's screamin.' In the streets there's a ragin' riot. When it's, 'Burn the bitch,\" they're shrieking. When the truth comes out it's quiet.",
     "song": "Cassandra",
@@ -415,7 +415,7 @@ quotes=[
     "album": "folklore (2020)"
   },
   {
-    "quote": "And you know damn well for you i would ruin myself / A million little times",
+    "quote": "And you know damn well for you I would ruin myself / A million little times",
     "song": "illicit affairs",
     "album": "folklore (2020)"
   },
@@ -520,7 +520,7 @@ quotes=[
     "album": "folklore (2020)"
   },
   {
-    "quote": "I'm still a believer but i don't know why. I've never been a natural, all I do is try try try",
+    "quote": "I'm still a believer but I don't know why. I've never been a natural, all I do is try try try",
     "song": "mirrorball",
     "album": "folklore (2020)"
   },
@@ -673,5 +673,20 @@ quotes=[
     "quote": "When you hold me, it holds me together / And you kiss me in a way that's gonna screw me up forever",
     "song": "Suburban Legends",
     "album": "1989 (Taylor's Version)"
+  },
+  {
+    "quote":"Somehow, I know that you and I would've found each other / In another life, you still would've turned my head",
+    "song":"Timeless",
+    "album": "Speak Now (Taylor's Version) (2023)"
+  },
+  {
+    "quote":"even in a different life, you still would've been mine / We would've been timeless",
+    "song":"Timeless",
+    "album": "Speak Now (Taylor's Version) (2023)"
+  },
+  {
+    "quote":"Sometimes there's no proof, you just know / You're always gonna be mine",
+    "song":"Timeless",
+    "album": "Speak Now (Taylor's Version) (2023)"
   }
 ];
