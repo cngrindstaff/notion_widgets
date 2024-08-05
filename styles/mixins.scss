@@ -1,5 +1,5 @@
 //used for welcome widget, quotes-taylor, quotes-other
-@mixin createCornerGradient($mainColor, $gradientColor){
+@mixin createCornerGradient($gradientColor, $mainColor){
 	background: 
 		linear-gradient(to right, $gradientColor 4px, transparent 4px) 0 0, 
 		linear-gradient(to right, $gradientColor 4px, transparent 4px) 0 100%,

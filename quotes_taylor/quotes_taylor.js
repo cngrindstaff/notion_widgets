@@ -580,7 +580,7 @@ quotes=[
     "album": "Midnights (2022)"
   },
   {
-    "quote": "I was so ahead of the curve,but the curve became a sphere",
+    "quote": "I was so ahead of the curve, but the curve became a sphere",
     "song": "this is me trying",
     "album": "folklore (2020)"
   },

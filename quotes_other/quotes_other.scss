@@ -1,0 +1,20 @@
+@use '../styles/styles.scss' as *;
+
+.quoteWidget {
+	padding: 5px 5px ;
+	text-align: center;
+	//max-width: 95%;
+	margin: auto;
+	font-variant-caps: petite-caps;
+	//width: 95%;
+	min-height: 100px;
+}
+
+.quote {
+	font-size: 2em;
+	color: $purple_font_medium;
+}
+.quote_source {
+	font-size: 1.2em;
+	color: $purple_font_medium;
+}
