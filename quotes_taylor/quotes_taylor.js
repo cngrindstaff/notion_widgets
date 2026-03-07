@@ -490,7 +490,7 @@ quotes=[
     "album": "evermore (2020)"
   },
   {
-    "quote": "I made you my temple, my mural, my sky, now Im searching for footnotes in the story of your life",
+    "quote": "I made you my temple, my mural, my sky, now I'm searching for footnotes in the story of your life",
     "song": "tolerate it",
     "album": "evermore (2020)"
   },
